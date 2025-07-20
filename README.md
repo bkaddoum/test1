@@ -1,1 +1,1 @@
-# test1
+remote_theme: jekyll-theme-minimal
